@@ -47,8 +47,10 @@ body {
     transform: rotate(3deg) translateY(-15px);
 }
 
-.card .card .header .date{
+.card .card .header .health{
     padding: 10px 0;
+    width: 48px;
+    font-size: 20px;
 }
 
 .card .card .header .title{
